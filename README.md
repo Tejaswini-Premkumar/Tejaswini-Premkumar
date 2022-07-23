@@ -3,7 +3,7 @@ Just a girl who loves learning and is figuring stuff out on her own
 ## About Me 
 A Sophomore at Sathiyabama Institute of Science and Technology - Chennai 
 Persuing a Bachelor's Degree in Computer Science and Engineering.
-- Courently exploring around Web_development
+- Courently exploring around Web-development
 ## Programing skills
 <p> 
  <img src="https://i.pinimg.com/originals/2f/9c/11/2f9c11f9e55efbf1791f12c06d60729b.jpg" height=70px/>
@@ -15,7 +15,8 @@ Persuing a Bachelor's Degree in Computer Science and Engineering.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tejaswini-Premkumar)](https://github.com/anuraghazra/github-readme-stats) 
 ### Languages used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejaswini-Premkumar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+### Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tejaswini-Premkumar)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **Tejaswini-Premkumar/Tejaswini-Premkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
