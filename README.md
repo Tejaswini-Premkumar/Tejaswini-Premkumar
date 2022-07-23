@@ -6,7 +6,7 @@ Persuing a Bachelor's Degree in Computer Science and Engineering.
 - Courently exploring around Web_development
 ## Programing skills
 <p> 
- <img src=https://pin.it/2CdjfrM />
+ <img src="https://i.pinimg.com/originals/2f/9c/11/2f9c11f9e55efbf1791f12c06d60729b.jpg" height=70px/>
 
 <!--
 **Tejaswini-Premkumar/Tejaswini-Premkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
