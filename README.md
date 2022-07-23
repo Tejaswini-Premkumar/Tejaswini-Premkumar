@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hiiiii 👋 i'am **Tejaswini Premkumar**
+Just a girl who loves learning and is figuring stuff out on her own
+## About Me 
+A Sophomore at Sathiyabama Institute of Science and Technology - Chennai 
+Persuing a Bachelor's Degree in Computer Science and Engineering.
+- Courently exploring around Web_development
+## Programing skills
+<p> 
+ <img src=https://pin.it/2CdjfrM />
 
 <!--
 **Tejaswini-Premkumar/Tejaswini-Premkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
