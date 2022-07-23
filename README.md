@@ -12,7 +12,7 @@ Persuing a Bachelor's Degree in Computer Science and Engineering.
  
 </p>
 <p align=right>
- <img src="https://pin.it/6QT24LY"/>
+ <img src="Work from home tips.png" height=300px/>
 </p>
 ### Stats
 
