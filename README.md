@@ -9,7 +9,12 @@ Persuing a Bachelor's Degree in Computer Science and Engineering.
  <img src="https://i.pinimg.com/originals/2f/9c/11/2f9c11f9e55efbf1791f12c06d60729b.jpg" height=70px/>
  <img src="Html 5 free icons designed by Pixel perfect.png" height=70px/>
  <img src="MySQL.png" height=70px/>
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tejaswini-Premkumar)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+### Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tejaswini-Premkumar)](https://github.com/anuraghazra/github-readme-stats) 
+### Languages used
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejaswini-Premkumar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Tejaswini-Premkumar/Tejaswini-Premkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
