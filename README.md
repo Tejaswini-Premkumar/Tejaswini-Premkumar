@@ -14,6 +14,7 @@ Persuing a Bachelor's Degree in Computer Science and Engineering.
 <p align=right>
  <img src="Work from home tips.png" height=300px/>
 </p>
+
 ### Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tejaswini-Premkumar)](https://github.com/anuraghazra/github-readme-stats) 
