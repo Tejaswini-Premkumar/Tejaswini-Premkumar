@@ -3,7 +3,7 @@ Just a girl who loves learning and is figuring stuff out on her own
 ## About Me 
 A Sophomore at Sathiyabama Institute of Science and Technology - Chennai 
 Persuing a Bachelor's Degree in Computer Science and Engineering.
-- Courently exploring around Web-development
+
 ## Programing skills
 <p> 
  <img src="https://i.pinimg.com/originals/2f/9c/11/2f9c11f9e55efbf1791f12c06d60729b.jpg" height=70px/>
