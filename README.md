@@ -1,7 +1,7 @@
 ### Hiiiii 👋 i'am **Tejaswini Premkumar**
 Just a girl who loves learning and is figuring stuff out on her own
 ## About Me 
-A Sophomore at Sathiyabama Institute of Science and Technology - Chennai 
+junior at Sathiyabama Institute of Science and Technology - Chennai 
 Persuing a Bachelor's Degree in Computer Science and Engineering.
 
 ## Programing skills
